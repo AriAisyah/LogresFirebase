@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705550366331",
+    "firebase_url": "https://loginregisterfirebasekahur.firebaseio.com",
+    "project_id": "loginregisterfirebasekahur",
+    "storage_bucket": "loginregisterfirebasekahur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705550366331:android:1b7d8ef18ba6f43a8354de",
+        "android_client_info": {
+          "package_name": "com.example.logresfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705550366331-o70ls8r2eqr5ljmq5miucdfc879itl72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logresfirebase",
+            "certificate_hash": "8dacbe1408121675d39701975709f6fc0ce56e4b"
+          }
+        },
+        {
+          "client_id": "705550366331-q0vsq08kep7kgbheknc9q8htg0udkqlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI85MDkhBRVIagobqZpkRWw15lzHaeh4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705550366331-q0vsq08kep7kgbheknc9q8htg0udkqlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
